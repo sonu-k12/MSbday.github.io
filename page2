@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body, html {
+  background: url(14.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+text-align: center;
+color: #00b38f;
+}
+h2{
+text-align: left;
+color: white;
+}
+pre {
+   font-family: "courier new"
+   }
+ a:link, a:visited {
+  background-color: #1affd1;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #ff33ff
+}
+</style>
+</head>
+<body>
+<h1><i>HAPPPIIEEEEEE BIRTHDAY PAPA!!!</i>&#128150</h1>
+
+<br><br>
+<h2>Just 2 to 3 lines to mark Now!!!&#129321
+<pre style="font-size: 20px"><b>I always fall sort of words when it comes to describing <br>what i feel for you!!!
+you mean the entire world to me!!!
+Iam greatful to have you in my life!!!&#128525;
+
+I want you to be with me forever just the way as you are now!!!..
+<span style='font-size:100px;'>&#128584;&#129303;</span>
+<i>Thankyou for loving me so dearly &so unconditionaly..</i><br><i>I love you to the moon & back!!</i> &#128150;&#128150;!!!!</h2>
+
+<a href="Page3.html" target="_blank">Inga Click !!!</a>
+<h2 style="text-align:Right"><i>MegaSonu</i><span style='font-size:50px;font-color:white;'&#128150;</span>
+
+</b></pre>
+</body>
+</html>
